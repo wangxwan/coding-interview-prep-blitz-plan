@@ -62,7 +62,7 @@ The journey of coding interview preparation can be challenging, but by shifting 
 
 | No. | Time | Content | Review today's | Review past No. |
 | --- | --- | --- | --- | --- |
-| 1 | [Day 1](plan/Day1/plan.md) | [CN1. TCP/IP Model and OSI Model](CN1.md);<br>[CN2. What happens from the input of a URL to the display of a webpage](CN2.md);<br>[AL704. Binary Search](AL704.cpp);<br>[AL27. Remove Element](AL27.cpp);<br>[AL977. Squares of a Sorted Array](AL977.cpp);<br>[AL209. Minimum Size Subarray Sum](AL209.cpp);<br>[AL59. Spiral Matrix II](AL59.cpp) | [ ]  2 hrs <br>[ ] 12 hrs |  |
+| 1 | [Day 1](plan/Day1/plan.md) | [CN1. TCP/IP Model and OSI Model](CN1.md);<br>[CN2. What happens from the input of a URL to the display of a webpage](CN2.md);<br>[AL704. Binary Search](AL704.cpp);<br>[AL27. Remove Element](AL27.cpp);<br>[AL977. Squares of a Sorted Array](AL977.cpp);<br>[AL209. Minimum Size Subarray Sum](AL209.cpp);<br>[AL59. Spiral Matrix II](AL59.cpp) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs |  |
 | 2 | Day 2 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.1 |
 | 3 | Day 3 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.2 <br>[ ] No.1 |
 | 4 | Day 4 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.3 <br>[ ] No.2 |

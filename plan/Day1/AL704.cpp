@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/binary-search/description/
+// 中国区：https://leetcode.cn/problems/binary-search/
+
 # include <iostream>
 # include <vector>
 using namespace std;
@@ -38,7 +41,7 @@ public:
         while (left < right) {
             int middle = left + ((right - left) / 2);  //prevent overflow
             if (nums[middle] > target) {
-                right = middle;  // then no plus
+                right = middle;  // then no minus
             } else if (nums[middle] < target) {
                 left = middle + 1;
             } else {

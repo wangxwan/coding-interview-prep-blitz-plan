@@ -2,7 +2,7 @@
 
 | 编号 | 时间 | 内容 | 当天复习 | 过去内容复习 |
 | --- | --- | --- | --- | --- |
-| 1 | Day 1 | [CN1. TCP/IP模型和OSI模型](CN1-cn.md);<br>[CN2. 从输入URL到页面展示发生了什么](CN2-cn.md);<br>[AL704. 二分查找](AL704.cpp);<br>[AL27. 移除元素](AL27.cpp);<br>[AL977. 有序数组的平方](AL977.cpp);<br>[AL209. 长度最小的子数组](AL209.cpp);<br>[AL59. 螺旋矩阵 II](AL59.cpp) | [:white_check_mark:]  2 hrs <br>[:white_check_mark:] 12 hrs |  |
+| 1 | Day 1 | [CN1. TCP/IP模型和OSI模型](CN1-cn.md);<br>[CN2. 从输入URL到页面展示发生了什么](CN2-cn.md);<br>[AL704. 二分查找](AL704.cpp);<br>[AL27. 移除元素](AL27.cpp);<br>[AL977. 有序数组的平方](AL977.cpp);<br>[AL209. 长度最小的子数组](AL209.cpp);<br>[AL59. 螺旋矩阵 II](AL59.cpp) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs |  |
 
 
 # 预习

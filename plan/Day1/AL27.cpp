@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/remove-element/description/
+// 中国区：https://leetcode.cn/problems/remove-element/
+
 # include <iostream>
 # include <vector>
 using namespace std;
@@ -22,6 +25,7 @@ public:
 };
 */
 
+/*
 // version 2: Two-pointer method (fast-slow pointer method)
 
 class Solution {
@@ -29,11 +33,34 @@ public:
     int removeElement(vector<int>& nums, int val) {
         int slowIndex = 0;
         for (int fastIndex = 0; fastIndex < nums.size(); fastIndex++) {
-            if (val != nums[fastIndex]) {
+            if (nums[fastIndex] != val) {
                 nums[slowIndex++] = nums[fastIndex];
             }
         }
         return slowIndex;
+    }
+};
+*/
+
+// version 3: Two-pointer method (left-right pointer method)
+
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        int leftIndex = 0;
+        int rightIndex = nums.size() - 1;
+        while (leftIndex <= rightIndex) {
+            while (leftIndex <= rightIndex && nums[leftIndex] != val) {
+                leftIndex++;
+            }
+            while (leftIndex <= rightIndex && nums[rightIndex] == val) {
+                rightIndex--;
+            }
+            if (leftIndex < rightIndex) {
+                nums[leftIndex++] = nums[rightIndex--];
+            }
+        }
+        return leftIndex;
     }
 };
 
