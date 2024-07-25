@@ -2,16 +2,13 @@
 
 | No. | Time | Content | Review today's | Review past No. |
 | --- | --- | --- | --- | --- |
-| 1 | Day 1 | [CN1. TCP/IP Model and OSI Model](CN1.md);<br>[CN2. What happens from the input of a URL to the display of a webpage](CN2.md);<br>[AL704. Binary Search](AL704.cpp);<br>[AL27. Remove Element](AL27.cpp);<br>[AL977. Squares of a Sorted Array](AL977.cpp);<br>[AL209. Minimum Size Subarray Sum](AL209.cpp);<br>[AL59. Spiral Matrix II](AL59.cpp) | [ ]  2 hrs <br>[ ] 12 hrs |  |
+| 1 | Day 1 | [CN1. TCP/IP Model and OSI Model](CN1.md);<br>[CN2. What happens from the input of a URL to the display of a webpage](CN2.md);<br>[AL704. Binary Search](AL704.cpp);<br>[AL27. Remove Element](AL27.cpp);<br>[AL977. Squares of a Sorted Array](AL977.cpp);<br>[AL209. Minimum Size Subarray Sum](AL209.cpp);<br>[AL59. Spiral Matrix II](AL59.cpp) | [:white_check_mark:]  2 hrs <br>[:white_check_mark:] 12 hrs |  |
 
 
-## Preview
-
-CN1 & CN2: 
-[What happens when you type a URL in the web browser and press Enter? Computer Stuff #18](https://www.youtube.com/watch?v=vvpCnjyjTuU)
+# Preview
 
 AL704 & AL27 & AL977 & AL209 & AL59: 
-#### Array Theory Basics
+***Array Theory Basics***
 
 Before you dive into solving Data Structures and Algorithms (DSA) problems involving arrays, it's crucial to have a solid understanding of the core concepts that underpin this fundamental data structure.  
 
@@ -59,3 +56,22 @@ Deletion (from the middle)  | Remove an element from a given index | O(n) - wors
 * **Understand Tradeoffs:** Recognize situations where arrays are advantageous (e.g., when you need fast access to elements) and where their limitations (e.g., fixed size) might be problematic. 
 
 **Final Note:** Array concepts often form the bedrock of coding interviews. Having a strong grasp of these fundamentals will serve you well in tackling a wide range of problems. 
+
+
+
+# Study
+
+- CN1:  
+[OSI model (text)](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)  
+[TCP/IP model (text)](https://www.geeksforgeeks.org/tcp-ip-model/?ref=lbp)  
+[OSI & TCP/IP model (videos)](https://www.youtube.com/playlist?list=PLBbU9-SUUCwUyqvfypPAHWOaDr7Wz4P6t)  
+
+- CN2:  
+[What happens when you type a URL in the web browser and press Enter? Computer Stuff #18 (video)](https://www.youtube.com/watch?v=vvpCnjyjTuU)  
+
+- DSA problems description:
+[AL704. Binary Search](https://leetcode.com/problems/binary-search/description/)
+[AL27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+[AL977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+[AL209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+[AL59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)

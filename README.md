@@ -1,6 +1,6 @@
 # Coding Interview Prep Blitz Plan
 
-:bulb: Document Usage Tip: The links in the [schedule](### Spaced Repetition Time Table) at the bottom can take you directly to the corresponding content!
+:bulb: Document Usage Tip: The links in the [schedule](# Spaced Repetition Time Table) at the bottom can take you directly to the corresponding content!
 [(中文版)](README-cn.md)
 
 - Clear Target: Interview preparation
@@ -22,7 +22,7 @@ Computer fundamentals problems:
 
 ### Method Explanation:
 
-##### From Mindless Grinding to Mindful Mastery:  A Smarter Approach to Coding Interview Prep
+***From Mindless Grinding to Mindful Mastery:  A Smarter Approach to Coding Interview Prep***
 
 Many of us preparing for coding interviews have fallen into the trap of "brute-force learning" – solving countless problems without a strategic approach. While this might seem productive initially, it often leads to a frustrating cycle: struggling with new problems, relying heavily on solutions, and forgetting previously solved problems within weeks. 
 

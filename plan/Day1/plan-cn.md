@@ -2,16 +2,13 @@
 
 | 编号 | 时间 | 内容 | 当天复习 | 过去内容复习 |
 | --- | --- | --- | --- | --- |
-| 1 | Day 1 | [CN1. TCP/IP模型和OSI模型](CN1-cn.md);<br>[CN2. 从输入URL到页面展示发生了什么](CN2-cn.md);<br>[AL704. 二分查找](AL704.cpp);<br>[AL27. 移除元素](AL27.cpp);<br>[AL977. 有序数组的平方](AL977.cpp);<br>[AL209. 长度最小的子数组](AL209.cpp);<br>[AL59. 螺旋矩阵 II](AL59.cpp) | [ ]  2 hrs <br>[ ] 12 hrs |  |
+| 1 | Day 1 | [CN1. TCP/IP模型和OSI模型](CN1-cn.md);<br>[CN2. 从输入URL到页面展示发生了什么](CN2-cn.md);<br>[AL704. 二分查找](AL704.cpp);<br>[AL27. 移除元素](AL27.cpp);<br>[AL977. 有序数组的平方](AL977.cpp);<br>[AL209. 长度最小的子数组](AL209.cpp);<br>[AL59. 螺旋矩阵 II](AL59.cpp) | [:white_check_mark:]  2 hrs <br>[:white_check_mark:] 12 hrs |  |
 
 
-## 预习
-
-CN1 & CN2:   
-[当你在浏览器中输入一个网址并按下回车键时会发生什么？计算机知识 #18](https://www.youtube.com/watch?v=vvpCnjyjTuU)
+# 预习
 
 AL704 & AL27 & AL977 & AL209 & AL59: 
-####  数组理论基础：为 DSA 刷题做好准备
+***数组理论基础***
 
 在开始深入解决涉及数组的数据结构与算法 (DSA) 问题之前，透彻理解这一基础数据结构的核心概念至关重要。
 
@@ -59,3 +56,21 @@ AL704 & AL27 & AL977 & AL209 & AL59:
 * **理解权衡：** 认识到数组在哪种情况下有利（例如，需要快速访问元素时）以及它们的局限性（例如，固定大小）在哪些情况下可能会出现问题。
 
 **最后一点：**  数组概念通常构成代码面试的基石。牢牢掌握这些基础知识将有助于你解决各种各样的问题。
+
+
+# 学习
+
+- CN1:  
+[OSI模型(text)](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)  
+[TCP/IP模型(text)](https://www.geeksforgeeks.org/tcp-ip-model/?ref=lbp)  
+[OSI & TCP/IP模型(videos)](https://www.youtube.com/playlist?list=PLBbU9-SUUCwUyqvfypPAHWOaDr7Wz4P6t)  
+
+- CN2:  
+[当你在浏览器中输入一个网址并按下回车键时会发生什么？计算机知识 #18(video)](https://www.youtube.com/watch?v=vvpCnjyjTuU)  
+
+- 算法题目描述：
+[AL704. 二分查找](https://leetcode.cn/problems/binary-search/)
+[AL27. 移除元素](https://leetcode.cn/problems/remove-element/)
+[AL977. 有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)
+[AL209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)
+[AL59. 螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)
