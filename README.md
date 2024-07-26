@@ -1,11 +1,11 @@
 # Coding Interview Prep Blitz Plan
 
-:bulb: Document Usage Tip: The links in the [schedule](# Spaced Repetition Time Table) at the bottom can take you directly to the corresponding content!
+:bulb: Document Usage Tip: The links in the [schedule](#Spaced%20Repetition%20Time%20Table) at the bottom can take you directly to the corresponding content!
 [(中文版)](README-cn.md)
 
 - Clear Target: Interview preparation
 - Training Content: Data Structure and Algorithm & Computer Fundamentals (Operating Systems, Databases, Networks)
-- Timeframe: 10 Weeks
+- Schedule: 10 weeks (the last 5 weeks are for complete review, with no new learning content)
 - Method: Spaced Repetition (Ebbinghaus Forgetting Curve) & Focus on Fundamentals
 - Benefits: Efficiency, Long-Term Knowledge, and Mastery
 
@@ -63,7 +63,7 @@ The journey of coding interview preparation can be challenging, but by shifting 
 | No. | Time | Content | Review today's | Review past No. |
 | --- | --- | --- | --- | --- |
 | 1 | [Day 1](plan/Day1/plan.md) | [CN1. TCP/IP Model and OSI Model](CN1.md);<br>[CN2. What happens from the input of a URL to the display of a webpage](CN2.md);<br>[AL704. Binary Search](AL704.cpp);<br>[AL27. Remove Element](AL27.cpp);<br>[AL977. Squares of a Sorted Array](AL977.cpp);<br>[AL209. Minimum Size Subarray Sum](AL209.cpp);<br>[AL59. Spiral Matrix II](AL59.cpp) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs |  |
-| 2 | Day 2 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.1 |
+| 2 | [Day 2](plan/Day2/plan.md) | [CN4. HTTP Status Codes](CN4-en.md);<br>[CN5. HTTP Caching (Strong Caching/Negotiated Caching)](CN5-en.md);<br>[AL203. Remove Linked List Elements](AL203.cpp);<br>[AL707. Design Linked List](AL707.cpp);<br>[AL206. Reverse Linked List](AL206.cpp);<br>[AL24. Swap Nodes in Pairs](AL24.cpp);<br>[AL19. Remove Nth Node From End of List](AL19.cpp) | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.1 |
 | 3 | Day 3 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.2 <br>[ ] No.1 |
 | 4 | Day 4 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.3 <br>[ ] No.2 |
 | 5 | Day 5 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.4 <br>[ ] No.3 |

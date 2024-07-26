@@ -1,11 +1,11 @@
 # 编码面试突击准备计划
 
-:bulb: 文档使用贴士：最下方的[时间表](# 间隔重复时间表)中的链接可跳转到对应内容哦！
+:bulb: 文档使用贴士：最下方的[时间表](#间隔重复时间表)中的链接可跳转到对应内容哦！
 [(English Edition)](README.md)
 
 - 明确目标：面试准备
 - 训练内容：数据结构与算法 & 计算机基础知识（操作系统、数据库、网络）
-- 时间安排：10 周
+- 时间安排：10周（后5周完全复习状态，无新学习内容）
 - 方法：间隔重复（艾宾浩斯遗忘曲线） & 注重基础知识
 - 收益：高效、长期记忆、精通
 
@@ -63,7 +63,7 @@
 | 编号 | 时间 | 内容 | 当天复习 | 过去内容复习 |
 |---|---|---|---|---|
 | 1 | [Day 1](plan/Day1/plan-cn.md) | [CN1. TCP/IP模型和OSI模型](CN1-cn.md);<br>[CN2. 从输入URL到页面展示发生了什么](CN2-cn.md);<br>[AL704. 二分查找](AL704.cpp);<br>[AL27. 移除元素](AL27.cpp);<br>[AL977. 有序数组的平方](AL977.cpp);<br>[AL209. 长度最小的子数组](AL209.cpp);<br>[AL59. 螺旋矩阵 II](AL59.cpp) | :white_check_mark: 2 hrs <br>:white_check_mark: 12 hrs |  |
-| 2 | Day 2 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.1 |
+| 2 | [Day 2](plan/Day2/plan-cn.md) | [CN4. HTTP状态码](CN4-cn.md);<br>[CN5. HTTP缓存(强缓存/协商缓存)](CN5-cn.md);<br>[AL203. 移除链表元素](AL203.cpp);<br>[AL707. 设计链表](AL707.cpp);<br>[AL206. 反转链表](AL206.cpp);<br>[AL24. 两两交换链表中的节点](AL24.cpp);<br>[AL19. 删除链表的倒数第N个节点](AL19.cpp) | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.1 |
 | 3 | Day 3 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.2 <br>[ ] No.1 |
 | 4 | Day 4 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.3 <br>[ ] No.2 |
 | 5 | Day 5 |  | [ ]  2 hrs <br>[ ] 12 hrs | [ ] No.4 <br>[ ] No.3 |
